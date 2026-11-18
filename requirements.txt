@@ -1,0 +1,5 @@
+# Intentionally outdated pins for pip-audit testing. Do not use in real apps.
+Django==2.2.0
+Flask==0.12.2
+requests==2.19.1
+PyYAML==5.3
